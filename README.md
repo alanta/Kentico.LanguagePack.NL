@@ -13,8 +13,9 @@ Please refer to the [Kentico docs](https://docs.kentico.com/display/K9/Setting+u
 * Add translations to the file
 * Create a pull request
 
-Keep in mind that in order for me to merge your pull request effectively, you should try to preserve the file as much as possible.
-I've published a tool you can use to edit Resx files side by side [here](https://github.com/alanta/ResxEditor) 
+Keep in mind that it's much easier merge your pull request effectively when try to preserve the file as much as possible.
+
+There's a tool you can use to edit Resx files side by side [here](https://github.com/alanta/ResxEditor) 
 
 ## Kentico versions
 
