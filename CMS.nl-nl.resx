@@ -3901,13 +3901,13 @@
     <value>Notificatie e-mail</value>
   </data>
   <data name="biz.selectbizform" xml:space="preserve">
-    <value>Selecteer BizForm</value>
+    <value>Selecteer Formulier</value>
   </data>
   <data name="biz.selectbizform.noitemselected" xml:space="preserve">
-    <value>U dient een BizForm te selecteren.</value>
+    <value>U dient een Formulier te selecteren.</value>
   </data>
   <data name="bizform.bizforms" xml:space="preserve">
-    <value>BizForms</value>
+    <value>Formulieren</value>
   </data>
   <data name="bizform.columns.formentries" xml:space="preserve">
     <value>Aantal inzendingen</value>
@@ -3916,7 +3916,7 @@
     <value>Formulier naam</value>
   </data>
   <data name="bizform.confirmationmessagesubject" xml:space="preserve">
-    <value>BizForm bericht</value>
+    <value>Formulier bericht</value>
   </data>
   <data name="bizform.data" xml:space="preserve">
     <value>Gegevens</value>
@@ -3928,10 +3928,10 @@
     <value>De ingevoerde waarden kunnen niet worden opgeslagen. Zie de velden hieronder voor details.</value>
   </data>
   <data name="bizform.messagesubject" xml:space="preserve">
-    <value>BizForm Bericht</value>
+    <value>Formulier Bericht</value>
   </data>
   <data name="bizform.security.lblallusers" xml:space="preserve">
-    <value>Alle BizForm gebruikers</value>
+    <value>Alle Formulier gebruikers</value>
   </data>
   <data name="bizform.security.lblonlyroles" xml:space="preserve">
     <value>Alleen geautoriseerde rollen</value>
@@ -4033,7 +4033,7 @@
     <value>Naar e-mail:</value>
   </data>
   <data name="bizformheader.title" xml:space="preserve">
-    <value>BizForm Eigenschappen</value>
+    <value>Formulier Eigenschappen</value>
   </data>
   <data name="bizformlist.addform" xml:space="preserve">
     <value>Nieuw formulier toevoegen</value>
@@ -4057,7 +4057,7 @@
     <value>Test formulier</value>
   </data>
   <data name="bizformlist.titletext" xml:space="preserve">
-    <value>BizForms</value>
+    <value>Formulieren</value>
   </data>
   <data name="bizformlist.viewhint" xml:space="preserve">
     <value>Gegevens weergeven</value>
@@ -4066,13 +4066,13 @@
     <value>U bent niet gemachtigd om dit formulier te beheren.</value>
   </data>
   <data name="bizformselect.entersearch" xml:space="preserve">
-    <value>Bizform naam of een deel daarvan:</value>
+    <value>Formulier naam of een deel daarvan:</value>
   </data>
   <data name="bizformselect.itemname" xml:space="preserve">
-    <value>Bizform naam</value>
+    <value>Formulier naam</value>
   </data>
   <data name="bizformselect.selectitem" xml:space="preserve">
-    <value>Selecteer bizforms</value>
+    <value>Selecteer formulieren</value>
   </data>
   <data name="bizformsnew.lblcodename" xml:space="preserve">
     <value>Formulier code naam:</value>
@@ -4084,7 +4084,7 @@
     <value>Tabel naam:</value>
   </data>
   <data name="bizformsnew.newbizform" xml:space="preserve">
-    <value>Nieuw BizForm</value>
+    <value>Nieuw Formulier</value>
   </data>
   <data name="bizformsnew.rfvcodename" xml:space="preserve">
     <value>Formulier code naam mag niet leeg zijn.</value>
@@ -4096,7 +4096,7 @@
     <value>Tabel naam mag niet leeg zijn.</value>
   </data>
   <data name="bizformsnew.title" xml:space="preserve">
-    <value>Nieuw BizForm</value>
+    <value>Nieuw Formulier</value>
   </data>
   <data name="bizform_edit.actionclearaftersave" xml:space="preserve">
     <value>Formulier leegmaken</value>
@@ -4147,16 +4147,16 @@
     <value>Formulier code naam:</value>
   </data>
   <data name="bizform_edit.headercaption" xml:space="preserve">
-    <value>BizForm eigenschappen</value>
+    <value>Formulier eigenschappen</value>
   </data>
   <data name="bizform_edit.itemlistlink" xml:space="preserve">
-    <value>BizForms</value>
+    <value>Formulieren</value>
   </data>
   <data name="bizform_edit.layout" xml:space="preserve">
     <value>Layout</value>
   </data>
   <data name="bizform_edit.newitemcaption" xml:space="preserve">
-    <value>Nieuw BizForm</value>
+    <value>Nieuw Formulier</value>
   </data>
   <data name="bizform_edit.reportfieldslabel" xml:space="preserve">
     <value>Rapport velden:</value>
@@ -4234,13 +4234,13 @@
     <value>Gebruik aangepaste layout</value>
   </data>
   <data name="bizform_list.headercaption" xml:space="preserve">
-    <value>BizForms</value>
+    <value>Formulieren</value>
   </data>
   <data name="bizform_list.newitemcaption" xml:space="preserve">
-    <value>Nieuw BizForm</value>
+    <value>Nieuw Formulier</value>
   </data>
   <data name="bizform_new.headercaption" xml:space="preserve">
-    <value>Nieuw BizForm</value>
+    <value>Nieuw Formulier</value>
   </data>
   <data name="blog.blogs" xml:space="preserve">
     <value>Blogs</value>
@@ -7572,7 +7572,7 @@ De pop-up window maakt gebruik van de standaard transformaties die zijn gespecif
     <value>Deze sectie toont de bestanden importeer functie. U kunt meteen beginnen met bestanden importeren of eerst de instellingen opgeven, bijvoorbeeld het doel alias pad of cultuur. Het pad naar een map, van waaruit de bestanden worden geïmporteerd wordt tevens weergegeven.</value>
   </data>
   <data name="cms.form.description" xml:space="preserve">
-    <value>Deze sectie geeft een lijst van BizForms gedefinieerd voor de opgegeven website weer. U kunt hier nieuwe formulieren aanmaken, bewerken of verwijderen, of objecten exporteren uit de al bestaande. Voor elk BizForm kunt u de algemene informatie, velden, lay-out of de e-mail notificatie bewerken.</value>
+    <value>Deze sectie geeft een lijst van Formulieren gedefinieerd voor de opgegeven website weer. U kunt hier nieuwe formulieren aanmaken, bewerken of verwijderen, of objecten exporteren uit de al bestaande. Voor elk Formulier kunt u de algemene informatie, velden, lay-out of de e-mail notificatie bewerken.</value>
   </data>
   <data name="cms.forums.description" xml:space="preserve">
     <value>Deze sectie geeft een lijst van forum groepen gedefinieerd voor een bepaalde website weer met een lijst van forumberichten die wachten op de goedkeuring van de aangemelde gebruiker. U kunt ervoor kiezen om een nieuwe forum groep aan te maken, of bewerken en verwijderen van bestaande. U kunt tevens forumberichten goedkeuren of weigeren en forums van elke forum groep beheren.</value>
@@ -7839,7 +7839,7 @@ De pop-up window maakt gebruik van de standaard transformaties die zijn gespecif
     <value>Exporteer fysieke bestanden</value>
   </data>
   <data name="cmsexport_bizforms.exportbizform" xml:space="preserve">
-    <value>Exporteer BizForm gegevens</value>
+    <value>Exporteer Formulier gegevens</value>
   </data>
   <data name="cmsexport_board.exportboardmessage" xml:space="preserve">
     <value>Exporteer berichtenbord berichten</value>
@@ -7911,10 +7911,10 @@ De pop-up window maakt gebruik van de standaard transformaties die zijn gespecif
     <value>Importeer fysieke bestanden</value>
   </data>
   <data name="cmsimport_bizforms.importbizform" xml:space="preserve">
-    <value>Importeer BizForm gegevens</value>
+    <value>Importeer Formulier gegevens</value>
   </data>
   <data name="cmsimport_bizforms.infolabel" xml:space="preserve">
-    <value>&lt;strong&gt;Let op: &lt;/ strong&gt; Het importeren van BizForm gegevens in een bestaande BizForm zal het verwijderen van de oorspronkelijke gegevens veroorzaken!</value>
+    <value>&lt;strong&gt;Let op: &lt;/ strong&gt; Het importeren van Formulier gegevens in een bestaande Formulier zal het verwijderen van de oorspronkelijke gegevens veroorzaken!</value>
   </data>
   <data name="cmsimport_board.importboardmessages" xml:space="preserve">
     <value>Importeer berichtenbord berichten</value>
@@ -16036,7 +16036,7 @@ U kunt een andere betaalmethode selecteren op de Factuur tab</value>
     <value>U dient een geldige kolom grootte in te voeren.</value>
   </data>
   <data name="development_formusercontrol_edit.lblforbizforms" xml:space="preserve">
-    <value>Control in BizForms weergeven</value>
+    <value>Control in Formulieren weergeven</value>
   </data>
   <data name="development_formusercontrol_edit.lblforboolean" xml:space="preserve">
     <value>Gebruik control voor boolean</value>
@@ -20175,7 +20175,7 @@ Als het probleem "veld &lt;veldnaam&gt; wordt niet geïndexeerd" zich voordoet b
     <value>Er bestaat reeds een formulier met deze tabel naam. Kies een andere tabel naam.</value>
   </data>
   <data name="editbizform.errorinvalidbizform" xml:space="preserve">
-    <value>BizForm met opgegeven ID bestaat niet.</value>
+    <value>Formulier met opgegeven ID bestaat niet.</value>
   </data>
   <data name="editbizform.errorinvalidsendfromemail" xml:space="preserve">
     <value>U dient een geldig "Van e-mail" adres in te voeren.</value>
@@ -22122,7 +22122,7 @@ Als het probleem "veld &lt;veldnaam&gt; wordt niet geïndexeerd" zich voordoet b
     <value>Er is een fout opgetreden tijdens het export proces.</value>
   </data>
   <data name="exportsite.errorexportingbizformdata" xml:space="preserve">
-    <value>Fout tijdens het exporteren van BizForm '{0}' gegevens.</value>
+    <value>Fout tijdens het exporteren van Formulier '{0}' gegevens.</value>
   </data>
   <data name="exportsite.errorexportingboardmessages" xml:space="preserve">
     <value>Fout tijdens het exporteren van berichtenbord '{0}' berichten.</value>
@@ -22209,7 +22209,7 @@ Als het probleem "veld &lt;veldnaam&gt; wordt niet geïndexeerd" zich voordoet b
     <value>Exporteren '{0}' objecten...</value>
   </data>
   <data name="exportsite.exportingbizformdata" xml:space="preserve">
-    <value>Exporteren BizForm '{0}' gegevens...</value>
+    <value>Exporteren Formulier '{0}' gegevens...</value>
   </data>
   <data name="exportsite.exportingboardmessages" xml:space="preserve">
     <value>Exporteren berichtenbord '{0}' berichten...</value>
@@ -24923,7 +24923,7 @@ Tabel grootte</value>
     <value>binaire gegevens</value>
   </data>
   <data name="general.bizform" xml:space="preserve">
-    <value>BizForm</value>
+    <value>Formulier</value>
   </data>
   <data name="general.block" xml:space="preserve">
     <value>Blokkeren</value>
@@ -28353,7 +28353,7 @@ Om de aanmelding te bevestigen, gebruikt u de link in de e-mail die aan u is toe
     <value>Fout tijdens het importen van ACL items</value>
   </data>
   <data name="importsite.errorimportingbizformdata" xml:space="preserve">
-    <value>Fout tijdens het importeren van BizForm '{0}' gegevens.</value>
+    <value>Fout tijdens het importeren van Formulier '{0}' gegevens.</value>
   </data>
   <data name="importsite.errorimportingboardmessages" xml:space="preserve">
     <value>Fout tijdens het importeren van berichtenbord '{0}' gegevens.</value>
@@ -29388,7 +29388,7 @@ Controleer uw instellingen of herstart de applicatie.</value>
     <value>Het is niet toegestaan ​​om nieuwe documenten te maken in de geselecteerde groep. Het aantal groepen  dat is toegewezen aan de site voldoet niet aan de licentie eisen.</value>
   </data>
   <data name="licenseversion.bizform" xml:space="preserve">
-    <value>BizForm kan niet worden gemaakt vanwege licentie beperkingen.</value>
+    <value>Formulier kan niet worden gemaakt vanwege licentie beperkingen.</value>
   </data>
   <data name="licenseversion.createobject" xml:space="preserve">
     <value>Object kan niet worden gemaakt vanwege licentie beperkingen.</value>
@@ -34815,7 +34815,7 @@ Als uw aanvraag geen aangepaste hash salt heeft, en de connectie string is veran
     <value>Evenement deelnemers</value>
   </data>
   <data name="objecttasks.cms_form" xml:space="preserve">
-    <value>BizForms</value>
+    <value>Formulieren</value>
   </data>
   <data name="objecttasks.cms_formusercontrol" xml:space="preserve">
     <value>Formulier controls</value>
@@ -35538,7 +35538,7 @@ Als uw aanvraag geen aangepaste hash salt heeft, en de connectie string is veran
     <value>Logboek</value>
   </data>
   <data name="objecttype.cms_form" xml:space="preserve">
-    <value>BizForm</value>
+    <value>Formulier</value>
   </data>
   <data name="objecttype.cms_formclass" xml:space="preserve">
     <value>Klasse vorm</value>
@@ -40312,7 +40312,7 @@ Selecteer UserID, Gebruikersnaam Van CMS_User</value>
     <value>Vernietigen</value>
   </data>
   <data name="permissionnames.exploretree" xml:space="preserve">
-    <value>Blader in Boom</value>
+    <value>Blader in boom</value>
   </data>
   <data name="permissionnames.modify" xml:space="preserve">
     <value>Aanpassen</value>
@@ -47175,7 +47175,7 @@ In het geval dat een gebruiker niet de "Lees" rechten heeft voor een enkel docum
     <value>On-line formulier indienen</value>
   </data>
   <data name="settingskey.cmscmbizformsubmission.description" xml:space="preserve">
-    <value>Hiermee wordt logboek bijgehouden na het indienen van bizform.</value>
+    <value>Hiermee wordt logboek bijgehouden na het indienen van formulier.</value>
   </data>
   <data name="settingskey.cmscmblogpostcomments" xml:space="preserve">
     <value>Blog post commentaren</value>
@@ -48222,7 +48222,7 @@ In het geval dat een gebruiker niet de "Lees" rechten heeft voor een enkel docum
     <value>Formulier definities</value>
   </data>
   <data name="settingskey.cmsenableversioningcmsform.description" xml:space="preserve">
-    <value>Geeft aan of versiebeheer van bizform objecten is toegestaan.</value>
+    <value>Geeft aan of versiebeheer van formulier objecten is toegestaan.</value>
   </data>
   <data name="settingskey.cmsenableversioningcmslayout" xml:space="preserve">
     <value>Pagina layouts</value>
@@ -58637,7 +58637,7 @@ Overerf header(s) van bovenliggende template(s)</value>
     <value>{0} bestanden zijn succesvol geïmporteerd.&lt;/br&gt;</value>
   </data>
   <data name="tools.form.description" xml:space="preserve">
-    <value>Deze sectie geeft een lijst van BizForms gedefinieerd voor de opgegeven website weer. U kunt hier nieuwe formulieren aanmaken, bewerken of verwijderen, of objecten exporteren uit de al bestaande. Voor elk BizForm kunt u de algemene informatie, velden, lay-out of de e-mail notificatie bewerken.</value>
+    <value>Deze sectie geeft een lijst van Formulieren gedefinieerd voor de opgegeven website weer. U kunt hier nieuwe formulieren aanmaken, bewerken of verwijderen, of objecten exporteren uit de al bestaande. Voor elk Formulier kunt u de algemene informatie, velden, lay-out of de e-mail notificatie bewerken.</value>
   </data>
   <data name="tools.forums.description" xml:space="preserve">
     <value>Deze sectie geeft een lijst van forum groepen gedefinieerd voor een bepaalde website weer met een lijst van forumberichten die wachten op de goedkeuring van de aangemelde gebruiker. U kunt ervoor kiezen om een nieuwe forum groep aan te maken, of bewerken en verwijderen van bestaande. U kunt tevens forumberichten goedkeuren of weigeren en forums van elke forum groep beheren.</value>
@@ -58730,7 +58730,7 @@ Overerf header(s) van bovenliggende template(s)</value>
     <value>Import bestanden van server disk</value>
   </data>
   <data name="tools.ui.form" xml:space="preserve">
-    <value>BizForms</value>
+    <value>Formulieren</value>
   </data>
   <data name="tools.ui.formmanageforms" xml:space="preserve">
     <value>Beheer formulieren</value>
@@ -59829,7 +59829,7 @@ Hiërarchische</value>
     <value>Vervanging</value>
   </data>
   <data name="unigrid.bizform.actions.delete.confirmation" xml:space="preserve">
-    <value>Weet u zeker dat u het BizForm wilt verwijderen?</value>
+    <value>Weet u zeker dat u het Formulier wilt verwijderen?</value>
   </data>
   <data name="unigrid.bizform.columns.formdisplayname" xml:space="preserve">
     <value>Formulier naam</value>
@@ -63667,7 +63667,7 @@ Widget object laden is mislukt.</value>
     <value>Inspringen vergrootten</value>
   </data>
   <data name="wysiwyg.ui.insertbizforms" xml:space="preserve">
-    <value>BizForms invoegen</value>
+    <value>Formulieren invoegen</value>
   </data>
   <data name="wysiwyg.ui.insertimageormedia" xml:space="preserve">
     <value>Afbeelding of media invoegen</value>
